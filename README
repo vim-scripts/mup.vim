@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=472
+
+This is a first draft of syntax coloring/highlighting for the Mup file format.
+Mup file format is a musical publication format by Arkkra Enterprise http://www.arkkra.com
+This syntax file is not created/maintained by Arkkra Enterprise
